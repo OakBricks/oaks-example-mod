@@ -1,9 +1,13 @@
-# Fabric Example Mod
+# oak's example mod template
+###### literally the fucking stock fabric example mod but modified to my use
 
-## Setup
+# setup 
+same as the stock fabric example mod you idiot
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+# build
+`./gradlew build` on powershell or linux/macos/whatever
 
-## License
+`gradlew build` fucking command prompt win🅱ows
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+# other
+~~made~~ modified with ~~love and care using~~ jet bran suite
